@@ -31,7 +31,7 @@
     display: flex;
     justify-content:center;
 }
-.home-content{
+.home-contents{
     display: flex;
     gap: 40px;
     align-items: center;
